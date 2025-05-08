@@ -1,0 +1,8 @@
+# Credentials
+gcp_creds.json
+*.json
+
+# System files
+.DS_Store
+__pycache__/
+*.pyc 
